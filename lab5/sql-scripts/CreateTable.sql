@@ -1,0 +1,5 @@
+CREATE TABLE Person (
+  idPerson INT NOT NULL AUTO_INCREMENT,
+  firstName VARCHAR(45) NOT NULL,
+  lastName VARCHAR(45) NOT NULL,
+  PRIMARY KEY (idPerson));
